@@ -16,6 +16,12 @@ I'm Abdullah, Software developer from <img src="https://www.flaticon.com/svg/sta
 
 <p>Now I am continuing my quest to explore new areas and pursuing new limits in informatics and getting to know my limitation.</p>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+![Profile views](https://gpvc.arturio.dev/theilgazcode)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=theilgazcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=theilgazcode&count_private=true&hide=issues&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theilgazcode&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
