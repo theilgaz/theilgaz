@@ -18,7 +18,7 @@ I'm Abdullah, Software developer from <img src="https://www.flaticon.com/svg/sta
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![Profile views](https://gpvc.arturio.dev/theilgazcode)  
+![Visitor Count](https://profile-counter.glitch.me/theilgazcode/count.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theilgazcode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
