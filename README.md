@@ -1,25 +1,24 @@
 ### Hey! Nice to see you.
-Welcome to my page!<br>
-I'm Abdullah, Software developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="19"/> **Turkey**.
 
-- 🔭 I’m currently working on our brand-new ERP solution.
-- 🌱 I’m currently learning **Designing Data-Intensive Applications**.
+This is Abdullah, Code Artisan from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="19"/> **Turkey**.
+
+I am passionate about developing new products, writing software to be used by humans, and discovering new technologies, solutions, and innovations. Making things happen is what drives me.
+
+Developed apps, templates and architectures, and gained experience in database application development in the IT sector. Over the years, I've worked across all aspects of the IT industry, including system analysis, designing user interfaces, creating software architectures, and managing mid-sized hybrid projects.
+
+At the moment, I'm exploring new areas and pursuing new limits in informatics and getting to know my limits.
+
+
+**#NotABigDeal #TrustTheProcess**
+
+- 🔭 I’m currently working on cloud forest.
 - 💬 Ask me anything via <a href="mailto:mail@abdullahilgaz.com">email</a>.  
-- 🛡 I'm <a href="https://www.embarcadero.com/partners/mvp-directory" target="_blank">Embarcadero</a> **Delphi MVP**.
-- 💻 I love designing software architecture for own solutions.
+- 🛡 Developer Recognition Program participant and <a href="https://www.embarcadero.com/partners/mvp-directory" target="_blank">Embarcadero</a> Delphi MVP.
+- 💻 I love designing software architectures.
 - ⚡ I'm a 📡 radio amateur (ham radio). **TA5AFJ** is my *Call Sign/indicatif d'appel/Rufzeichen*. 
 - 🖋 I write blog posts in Turkish and English <a href="https://abdullahilgaz.com" target="_blank">here</a>.
-
-<p>Passionate about creating new things, writing software for use by other humans, discovering new technologies, solutions and innovations. Trying to do the things that i can imagine.</p>
-
-<p>Gained experience in IT sector for a long time before creating 3D graphics, coding back-end apps and getting into database application development. In IT sector, worked accross all positions from system analyzing, designing user interfaces, creating software architectures and managing mid-sized hybrid projects.</p>
-
-<p>Now I am continuing my quest to explore new areas and pursuing new limits in informatics and getting to know my limitation.</p>
-
+- 🧰 My tools are 📦 Postgres, SQL Server, Oracle | 🛠 C#, .NET/.NET Core, Web Api | 💎 React, Next.js
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftheilgazcode%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theilgaz&langs_count=10&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=theilgaz&show_icons=true&hide=prs,issues,contribs&custom_title=EOF&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
