@@ -3,7 +3,11 @@ Hi 👋 This is Abdullah
 D² / Dad and Developer • Code Artisan • MVP 
 ------------------------
 
-I am passionate about developing new products, writing software to be used by humans, and discovering new technologies, solutions, and innovations. Making things happen is what drives me. Developed apps, templates and architectures, and gained experience in database application development in the IT sector. Over the years, I've worked across all aspects of the IT industry, including system analysis, designing user interfaces, creating software architectures, and managing mid-sized hybrid projects. At the moment, I'm exploring new areas and pursuing new limits in informatics and getting to know my limits. 
+I am passionate about developing new products, writing software to be used by humans, and discovering new technologies, solutions, and innovations. Making things happen is what drives me.
+
+Developed apps, templates and architectures, and gained experience in database application development in the IT sector. Over the years, I've worked across all aspects of the IT industry, including system analysis, designing user interfaces, creating software architectures, and managing mid-sized hybrid projects.
+
+At the moment, I'm exploring new areas and pursuing new limits in informatics and getting to know my limits.
 
 **#NotABigDeal #TrustTheProcess**
 
