@@ -1,19 +1,21 @@
 Hi 👋 This is Abdullah
 =========================
-D² / Dad and Developer • Code Artisan • MVP 
+principal developer • code artisan • mvp 
 ------------------------
+
 
 I am passionate about developing new products, writing software to be used by humans, and discovering new technologies, solutions, and innovations. Making things happen is what drives me.
 
 Developed apps, templates and architectures, and gained experience in database application development in the IT sector. Over the years, I've worked across all aspects of the IT industry, including system analysis, designing user interfaces, creating software architectures, and managing mid-sized hybrid projects.
 
 At the moment, I'm exploring new areas and pursuing new limits in informatics and getting to know my limits.
-
-**#NotABigDeal #TrustTheProcess**
-
-*   🌍  I'm based in Konya, Turkey
-*   ⚡  I'm Developer Recognition Program participant and <a href="https://www.embarcadero.com/partners/mvp-directory" target="_blank">Embarcadero</a>  Delphi MVP.
+ 
   
+
+*   🌍  I'm based in Konya, TR
+*   ⚡  I'm Developer Recognition Program participant and <a href="https://www.embarcadero.com/partners/mvp-directory" target="_blank">Embarcadero</a>  Delphi MVP.
+*   🐞  Bug fixes and performance improvements
+    
 ### Skills
  
 <p align="left">
