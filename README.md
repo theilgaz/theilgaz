@@ -1,6 +1,6 @@
 Hi 👋 This is Abdullah
 =========================
-principal developer • code artisan • mvp 
+developer • code artisan • mvp 
 ------------------------
 
 
