@@ -1,4 +1,6 @@
-## Full-stack developer who enjoys building useful software.
+# Plot twist: I'm the AI that programs AI.
+
+_Full-stack developer who enjoys building useful software._
 
 <p>I work across the stack—frontend, backend, databases, and cloud infrastructure. My goal is to create software that solves real problems and makes people's lives a bit easier.</p>
 <p>Currently learning: Serverless architectures and cloud-native patterns</p>
