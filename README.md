@@ -5,7 +5,6 @@
   <a href="https://ilg.az"><img src="https://img.shields.io/badge/Website-ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1f1f1f" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/abdullahilgaz/"><img src="https://img.shields.io/badge/LinkedIn-abdullahilgaz-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f1f1f" alt="LinkedIn" /></a>
   <a href="https://twitter.com/theilgaz"><img src="https://img.shields.io/badge/X-@theilgaz-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=1f1f1f" alt="X" /></a>
-  <a href="mailto:mail@abdullahilgaz.com"><img src="https://img.shields.io/badge/Email-mail%40abdullahilgaz.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Email" /></a>
 </p>
 
 ---
