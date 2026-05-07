@@ -2,10 +2,10 @@
 <p align="center"><em>code artisan • RESTafarian • shutterbug</em></p>
 
 <p align="center">
-  <a href="https://ilg.az"><img src="https://img.shields.io/badge/Website-ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/abdullahilgaz/"><img src="https://img.shields.io/badge/LinkedIn-abdullahilgaz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/theilgaz"><img src="https://img.shields.io/badge/X-@theilgaz-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:mail@abdullahilgaz.com"><img src="https://img.shields.io/badge/Email-mail%40abdullahilgaz.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ilg.az"><img src="https://img.shields.io/badge/ilg.az-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/abdullahilgaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/theilgaz"><img src="https://img.shields.io/badge/@theilgaz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mail@abdullahilgaz.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -21,17 +21,19 @@ Full-stack developer based in Konya, Türkiye. I build software across the stack
 ### Tech I work with
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
 
 ### Selected projects
@@ -44,10 +46,14 @@ Full-stack developer based in Konya, Türkiye. I build software across the stack
 ### Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=theilgaz&hide_border=true&card_width=600" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=theilgaz&theme=tokyonight&hide_border=true&card_width=600" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=theilgaz&hide_border=true&card_width=600" />
+    <img src="https://streak-stats.demolab.com?user=theilgaz&hide_border=true&card_width=600" alt="GitHub streak" />
+  </picture>
 </p>
 
 <p>
   <a href="https://user-badge.committers.top/turkey/theilgaz"><img src="https://user-badge.committers.top/turkey/theilgaz.svg" alt="committers.top badge" /></a>
-  <img src="https://komarev.com/ghpvc/?username=theilgaz&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=theilgaz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
