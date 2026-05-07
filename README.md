@@ -38,10 +38,43 @@ Full-stack developer based in **Konya, Türkiye**. I build software across the s
 
 ### Selected projects
 
-- [**mahfuz**](https://github.com/theilgaz/mahfuz) · A Quran companion built with TypeScript
-- [**fastql**](https://github.com/theilgaz/fastql) · A lightweight SQL query builder for .NET
-- [**winforms-dependency-injection**](https://github.com/theilgaz/winforms-dependency-injection) · Practical DI patterns for .NET WinForms
-- [**FGX**](https://github.com/theilgaz/FGX) · Repacked FGX components for Delphi
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/theilgaz/mahfuz">mahfuz</a></h4>
+      <p>Your Quran companion: a clean, fast reading experience for the web.</p>
+      <p>
+        <a href="https://mahfuz.ilg.az"><img src="https://img.shields.io/badge/Try%20it-mahfuz.ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1f1f1f" alt="Live demo" /></a>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/theilgaz/fastql">fastql</a></h4>
+      <p>A lightweight, fluent SQL query builder for .NET.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/theilgaz/winforms-dependency-injection">winforms-dependency-injection</a></h4>
+      <p>Practical dependency injection patterns demonstrated in .NET WinForms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/theilgaz/FGX">FGX</a></h4>
+      <p>Repacked FGX components for Delphi, ready to drop into your project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### Stats
 
