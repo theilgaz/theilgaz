@@ -21,19 +21,17 @@ Full-stack developer based in Konya, Türkiye. I build software across the stack
 ### Tech I work with
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/.NET-1f1f1f?style=flat&logo=dotnet&logoColor=512BD4" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-1f1f1f?style=flat&logo=csharp&logoColor=A179DC" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-1f1f1f?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1f1f1f?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1f1f1f?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-1f1f1f?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-1f1f1f?style=flat&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-1f1f1f?style=flat&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-1f1f1f?style=flat&logo=googlecloud&logoColor=4285F4" alt="GCP" />
 </p>
 
 ### Selected projects
