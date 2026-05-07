@@ -41,7 +41,7 @@ Full-stack developer based in **Konya, Türkiye**. I build software across the s
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/theilgaz/mahfuz">mahfuz</a></h4>
+      <a href="https://github.com/theilgaz/mahfuz"><b>mahfuz</b></a>
       <p>Your Quran companion: a clean, fast reading experience for the web.</p>
       <p>
         <a href="https://mahfuz.ilg.az"><img src="https://img.shields.io/badge/Try%20it-mahfuz.ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1f1f1f" alt="Live demo" /></a>
@@ -49,7 +49,7 @@ Full-stack developer based in **Konya, Türkiye**. I build software across the s
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/theilgaz/fastql">fastql</a></h4>
+      <a href="https://github.com/theilgaz/fastql"><b>fastql</b></a>
       <p>A lightweight, fluent SQL query builder for .NET.</p>
       <p>
         <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
@@ -59,7 +59,7 @@ Full-stack developer based in **Konya, Türkiye**. I build software across the s
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/theilgaz/winforms-dependency-injection">winforms-dependency-injection</a></h4>
+      <a href="https://github.com/theilgaz/winforms-dependency-injection"><b>winforms-dependency-injection</b></a>
       <p>Practical dependency injection patterns demonstrated in .NET WinForms.</p>
       <p>
         <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
@@ -67,7 +67,7 @@ Full-stack developer based in **Konya, Türkiye**. I build software across the s
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/theilgaz/FGX">FGX</a></h4>
+      <a href="https://github.com/theilgaz/FGX"><b>FGX</b></a>
       <p>Repacked FGX components for Delphi, ready to drop into your project.</p>
       <p>
         <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" />
@@ -78,11 +78,19 @@ Full-stack developer based in **Konya, Türkiye**. I build software across the s
 
 ### Stats
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=theilgaz&theme=tokyonight&hide_border=true&card_width=600" alt="GitHub streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theilgaz&theme=tokyonight&hide_border=true&card_width=820" alt="GitHub streak" />
 </p>
 
-<p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theilgaz&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=70a5fd&color=70a5fd&point=bf91f3&area=true&area_color=70a5fd" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theilgaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+</p>
+
+<p align="center">
   <a href="https://user-badge.committers.top/turkey/theilgaz"><img src="https://user-badge.committers.top/turkey/theilgaz.svg" alt="committers.top badge" /></a>
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Profile%20views&query=%24.message&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dtheilgaz%26format%3Djson&color=0e75b6&labelColor=1f1f1f&logo=eye&logoColor=white" alt="Profile views" />
 </p>
