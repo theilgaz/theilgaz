@@ -12,10 +12,10 @@
 
 ### About
 
-Full-stack developer based in **Konya, Türkiye**. I build software across the stack: frontend, backend, data, and cloud, with a bias toward systems that are simple to reason about and pleasant to maintain.
+Full-stack developer based in **Konya, Türkiye**. I care about software that genuinely helps people: removing even one small friction from someone's day feels like a win. Across the stack I lean toward systems that are simple to reason about and pleasant to live with, both for the people who use them and for the people who build them.
 
 <table>
-  <tr><td><b>Currently</b></td><td>Exploring serverless architectures and cloud-native patterns</td></tr>
+  <tr><td><b>Currently</b></td><td>Focused on user experience and developer experience: making products people love to use and codebases people love to work in</td></tr>
   <tr><td><b>Sharing</b></td><td>Code samples and write-ups about what I learn along the way</td></tr>
   <tr><td><b>Open to</b></td><td>Thoughtful collaboration on open-source work</td></tr>
 </table>
