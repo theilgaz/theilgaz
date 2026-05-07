@@ -44,12 +44,7 @@ Full-stack developer based in Konya, Türkiye. I build software across the stack
 ### Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theilgaz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theilgaz&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theilgaz&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=theilgaz&hide_border=true&card_width=600" alt="GitHub streak" />
 </p>
 
 <p>
