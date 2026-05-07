@@ -46,11 +46,7 @@ Full-stack developer based in Konya, Türkiye. I build software across the stack
 ### Stats
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=theilgaz&theme=tokyonight&hide_border=true&card_width=600" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=theilgaz&hide_border=true&card_width=600" />
-    <img src="https://streak-stats.demolab.com?user=theilgaz&hide_border=true&card_width=600" alt="GitHub streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=theilgaz&theme=tokyonight&hide_border=true&card_width=600" alt="GitHub streak" />
 </p>
 
 <p>
