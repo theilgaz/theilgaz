@@ -1,22 +1,24 @@
-<h1 align="center">Hi, I'm Abdullah Ilgaz</h1>
-<p align="center"><em>code artisan • RESTafarian • shutterbug</em></p>
+<h1 align="center">Abdullah Ilgaz</h1>
+<p align="center"><em>code artisan &nbsp;·&nbsp; RESTafarian &nbsp;·&nbsp; shutterbug</em></p>
 
 <p align="center">
-  <a href="https://ilg.az"><img src="https://img.shields.io/badge/ilg.az-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/abdullahilgaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/theilgaz"><img src="https://img.shields.io/badge/@theilgaz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:mail@abdullahilgaz.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://ilg.az"><img src="https://img.shields.io/badge/Website-ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1f1f1f" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/abdullahilgaz/"><img src="https://img.shields.io/badge/LinkedIn-abdullahilgaz-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f1f1f" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/theilgaz"><img src="https://img.shields.io/badge/X-@theilgaz-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=1f1f1f" alt="X" /></a>
+  <a href="mailto:mail@abdullahilgaz.com"><img src="https://img.shields.io/badge/Email-mail%40abdullahilgaz.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Email" /></a>
 </p>
 
 ---
 
 ### About
 
-Full-stack developer based in Konya, Türkiye. I build software across the stack — frontend, backend, data, and cloud — with a bias toward systems that are simple to reason about and pleasant to maintain.
+Full-stack developer based in **Konya, Türkiye**. I build software across the stack — frontend, backend, data, and cloud — with a bias toward systems that are simple to reason about and pleasant to maintain.
 
-- Currently exploring serverless architectures and cloud-native patterns
-- Sharing what I learn through code samples and writing
-- Open to thoughtful collaboration on open-source work
+|              |                                                                |
+| ------------ | -------------------------------------------------------------- |
+| **Currently** | Exploring serverless architectures and cloud-native patterns  |
+| **Sharing**   | Code samples and write-ups about what I learn along the way   |
+| **Open to**   | Thoughtful collaboration on open-source work                  |
 
 ### Tech I work with
 
