@@ -12,12 +12,12 @@
 
 ### About
 
-Full-stack developer based in **Konya, Türkiye**. I care about software that genuinely helps people: removing even one small friction from someone's day feels like a win. Across the stack I lean toward systems that are simple to reason about and pleasant to live with, both for the people who use them and for the people who build them.
+Full-stack developer based in **Konya, Türkiye**. I build software that genuinely helps people: removing even one small friction from someone's day feels like a win.
 
 <table>
-  <tr><td><b>Currently</b></td><td>Focused on user experience and developer experience: making products people love to use and codebases people love to work in</td></tr>
-  <tr><td><b>Sharing</b></td><td>Code samples and write-ups about what I learn along the way</td></tr>
-  <tr><td><b>Open to</b></td><td>Thoughtful collaboration on open-source work</td></tr>
+  <tr><td><b>Currently</b></td><td>User experience and developer experience</td></tr>
+  <tr><td><b>Sharing</b></td><td>Code samples and write-ups</td></tr>
+  <tr><td><b>Open to</b></td><td>Open-source collaboration</td></tr>
 </table>
 
 ### Tech I work with
