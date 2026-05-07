@@ -16,6 +16,7 @@ Full-stack developer based in **Konya, Türkiye**. I build software that genuine
 
 <table>
   <tr><td><b>Currently</b></td><td>User experience and developer experience</td></tr>
+  <tr><td><b>Building</b></td><td>Konya Hackerspace, together with friends</td></tr>
   <tr><td><b>Sharing</b></td><td>Code samples and write-ups</td></tr>
   <tr><td><b>Open to</b></td><td>Open-source collaboration</td></tr>
 </table>
@@ -42,6 +43,7 @@ Full-stack developer based in **Konya, Türkiye**. I build software that genuine
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/theilgaz/mahfuz"><b>mahfuz</b></a>
+      &nbsp;<img src="https://img.shields.io/badge/1st%20place-RamadanHacks-F1C40F?style=flat-square&labelColor=1f1f1f" alt="1st place at RamadanHacks" />
       <p>Your Quran companion: a clean, fast reading experience for the web.</p>
       <p>
         <a href="https://mahfuz.ilg.az"><img src="https://img.shields.io/badge/Try%20it-mahfuz.ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1f1f1f" alt="Live demo" /></a>
