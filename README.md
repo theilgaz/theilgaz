@@ -16,7 +16,7 @@ Full-stack developer based in **Konya, Türkiye**. I build software that genuine
 
 <table>
   <tr><td><b>Currently</b></td><td>User experience and developer experience</td></tr>
-  <tr><td><b>Building</b></td><td>Konya Hackerspace, together with friends</td></tr>
+  <tr><td><b>Building</b></td><td><a href="https://github.com/konyahackerspace">Konya Hackerspace</a>, together with friends</td></tr>
   <tr><td><b>Sharing</b></td><td>Code samples and write-ups</td></tr>
   <tr><td><b>Open to</b></td><td>Open-source collaboration</td></tr>
 </table>
