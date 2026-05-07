@@ -92,5 +92,5 @@ Full-stack developer based in **Konya, Türkiye**. I build software across the s
 
 <p align="center">
   <a href="https://user-badge.committers.top/turkey/theilgaz"><img src="https://user-badge.committers.top/turkey/theilgaz.svg" alt="committers.top badge" /></a>
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Profile%20views&query=%24.message&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dtheilgaz%26format%3Djson&color=0e75b6&labelColor=1f1f1f&logo=eye&logoColor=white" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=theilgaz&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
