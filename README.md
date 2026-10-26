@@ -1,97 +1,67 @@
-<h1 align="center">Abdullah Ilgaz</h1>
-<p align="center"><em>code artisan &nbsp;·&nbsp; RESTafarian &nbsp;·&nbsp; shutterbug</em></p>
-
-<p align="center">
-  <a href="https://ilg.az"><img src="https://img.shields.io/badge/Website-ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1f1f1f" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/abdullahilgaz/"><img src="https://img.shields.io/badge/LinkedIn-abdullahilgaz-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1f1f1f" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/theilgaz"><img src="https://img.shields.io/badge/X-@theilgaz-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=1f1f1f" alt="X" /></a>
-</p>
-
----
-
-### About
-
-Full-stack developer based in **Konya, Türkiye**. I build software that genuinely helps people: removing even one small friction from someone's day feels like a win.
-
-<table>
-  <tr><td><b>Currently</b></td><td>User experience and developer experience</td></tr>
-  <tr><td><b>Building</b></td><td><a href="https://github.com/konyahackerspace">Konya Hackerspace</a>, together with friends</td></tr>
-  <tr><td><b>Sharing</b></td><td>Code samples and write-ups</td></tr>
-  <tr><td><b>Open to</b></td><td>Open-source collaboration</td></tr>
-</table>
-
-### Tech I work with
+<a href="https://ilg.az">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <img src="assets/header-light.svg" width="100%" alt="Abdullah Ilgaz: code artisan, RESTafarian, shutterbug. Konya, Türkiye." />
+  </picture>
+</a>
 
 <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=20232A" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=232F3E" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" />
+  <a href="https://ilg.az"><img src="https://img.shields.io/badge/web-ilg.az-2b3fe0?style=flat-square&labelColor=0c0f1a" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/abdullahilgaz/"><img src="https://img.shields.io/badge/in-abdullahilgaz-2b3fe0?style=flat-square&logo=linkedin&logoColor=white&labelColor=0c0f1a" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/theilgaz"><img src="https://img.shields.io/badge/x-@theilgaz-2b3fe0?style=flat-square&logo=x&logoColor=white&labelColor=0c0f1a" alt="X" /></a>
+  <a href="https://github.com/konyahackerspace"><img src="https://img.shields.io/badge/khs-konyahackerspace-c8f53c?style=flat-square&labelColor=0c0f1a" alt="Konya Hackerspace" /></a>
 </p>
 
-### Selected projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg" />
+  <img src="assets/h-about-light.svg" width="100%" alt="About" />
+</picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theilgaz/mahfuz"><b>mahfuz</b></a>
-      <p>Your Quran companion: a clean, fast reading experience for the web.</p>
-      <p>
-        <a href="https://mahfuz.ilg.az"><img src="https://img.shields.io/badge/Try%20it-mahfuz.ilg.az-0e75b6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=1f1f1f" alt="Live demo" /></a>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <a href="https://www.ramadanhacks.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/%F0%9F%A5%87%20Winner-RamadanHacks-F1C40F?style=flat-square&labelColor=1f1f1f" alt="Winner at RamadanHacks" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theilgaz/fastql"><b>fastql</b></a>
-      <p>A lightweight, fluent SQL query builder for .NET.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theilgaz/winforms-dependency-injection"><b>winforms-dependency-injection</b></a>
-      <p>Practical dependency injection patterns demonstrated in .NET WinForms.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theilgaz/FGX"><b>FGX</b></a>
-      <p>Repacked FGX components for Delphi, ready to drop into your project.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" />
-      </p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+  <img src="assets/about-light.svg" width="100%" alt="Full-stack developer in Konya, Türkiye. Currently: user experience and developer experience. Building: Konya Hackerspace, together with friends. Sharing: code samples and write-ups. Open to: open-source collaboration." />
+</picture>
 
-### Stats
+<br /><br />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theilgaz&theme=tokyonight&hide_border=true&card_width=820" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg" />
+  <img src="assets/h-stack-light.svg" width="100%" alt="Stack" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img src="assets/stack-light.svg" width="100%" alt="Daily drivers: .NET, C#, TypeScript, React. Also: Node.js, PostgreSQL, Redis, Docker, AWS, Azure, GCP." />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg" />
+  <img src="assets/h-projects-light.svg" width="100%" alt="Selected projects" />
+</picture>
+
+<p>
+  <a href="https://github.com/theilgaz/mahfuz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-mahfuz-dark.svg" /><img src="assets/p-mahfuz-light.svg" width="49%" alt="mahfuz: your Quran companion, a clean, fast reading experience for the web" /></picture></a>
+  <a href="https://github.com/theilgaz/fastql"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-fastql-dark.svg" /><img src="assets/p-fastql-light.svg" width="49%" alt="fastql: a lightweight, fluent SQL query builder for .NET" /></picture></a>
+  <a href="https://github.com/theilgaz/winforms-dependency-injection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-winforms-dependency-injection-dark.svg" /><img src="assets/p-winforms-dependency-injection-light.svg" width="49%" alt="winforms-dependency-injection: practical dependency injection patterns in .NET WinForms" /></picture></a>
+  <a href="https://github.com/theilgaz/FGX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-fgx-dark.svg" /><img src="assets/p-fgx-light.svg" width="49%" alt="FGX: repacked FGX components for Delphi" /></picture></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theilgaz&theme=tokyo-night&bg_color=1a1b27&hide_border=true&line=70a5fd&color=70a5fd&point=bf91f3&area=true&area_color=70a5fd" alt="Activity graph" />
+<p>
+  <sub><code>$ open</code> <a href="https://mahfuz.ilg.az">mahfuz.ilg.az</a>, winner at <a href="https://www.ramadanhacks.com/">RamadanHacks</a></sub>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theilgaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</p>
+<br />
 
-<p align="center">
-  <a href="https://user-badge.committers.top/turkey/theilgaz"><img src="https://user-badge.committers.top/turkey/theilgaz.svg" alt="committers.top badge" /></a>
-  <img src="https://komarev.com/ghpvc/?username=theilgaz&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-rank-dark.svg" />
+  <img src="assets/h-rank-light.svg" width="100%" alt="Ranking" />
+</picture>
+
+<a href="https://committers.top/turkey#theilgaz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rank-dark.svg" />
+    <img src="assets/rank-light.svg" width="100%" alt="committers.top Türkiye ranking" />
+  </picture>
+</a>
