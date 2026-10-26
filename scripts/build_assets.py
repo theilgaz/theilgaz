@@ -66,7 +66,7 @@ def font_path(key):
         if key == 'sans':
             # Plex Sans ships as a variable font; pin it to Regular.
             from fontTools.varLib.instancer import instantiateVariableFont
-            f = TTFont(path)
+            f = TTFont(path, recalcTimestamp=False)
             instantiateVariableFont(f, {'wght': 400, 'wdth': 100}, inplace=True)
             f.save(path)
     return path

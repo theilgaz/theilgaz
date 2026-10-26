@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - run: pip install fonttools
+      - run: pip install fonttools==4.60.2
       - run: python scripts/build_assets.py
       - name: Commit if the ranking moved
         run: |
